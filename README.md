@@ -65,8 +65,7 @@ This project aims to analyze the distribution of prices within each category for
 
 
 ### 7. <a id='seven'> What is the average price of paid apps within each category?</a>
-- ![image](https://github.com/sathishvanga/Google-Playstore-Apps-Analysis/assets/92833519/912ec280-a614-4564-b596-aa5ded76a5fe)
-
+- ![image](https://github.com/sathishvanga/Google-Playstore-Apps-Analysis/assets/92833519/9eddd561-c55c-4254-9fa4-ac1bccfa3d51)
 
 
 
