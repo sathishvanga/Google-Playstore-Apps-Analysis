@@ -1,4 +1,8 @@
 # Google-Playstore-Apps-Analysis
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=your-github-sathishvanga&color=brightgreen)
+
 
 ### Overview
 This project aims to analyze the distribution of prices within each category for both free and paid apps in the Google Play Store. The analysis provides insights into pricing dynamics, comparing free and paid apps, calculating average prices, exploring quartiles or percentiles, and investigating the correlation between app prices and user engagement metrics.
